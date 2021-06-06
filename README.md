@@ -3,7 +3,7 @@
 I'm a programer. I've also been studying at ESCOM (my University) for a few
 years, in order to be a Computer Systems Engineer.
 
-![animation](animation.svg "I :heart: LINUX")
+![animation](animation.svg "I ❤️ LINUX")
 
 ## Languages and Tools
 
