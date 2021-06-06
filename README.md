@@ -3,6 +3,8 @@
 I'm a programer. I've also been studying at ESCOM (my University) for a few
 years, in order to be a Computer Systems Engineer.
 
+![animation](animation.svg "I love linux")
+
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/java-EC1F24?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)

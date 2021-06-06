@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <style>
+    #penguin1{
+        animation:move 4s infinite linear;
+    }
+    #penguin2{
+        animation:move 5s infinite linear;
+    }
+    #penguin3{
+        animation:move 6s infinite linear;
+    }
+    @keyframes move {
+         from { transform: translate(250px, 0px); }
+         to {  transform: translate(0px, 0px); }
+    }
+  </style>
+  <text x="0" y="35" class="small">🍙</text>
+  <text id="penguin1" x="0" y="35" class="small">🐧</text>
+  <text id="penguin2" x="0" y="35" class="small">🐧</text>
+  <text id="penguin3" x="0" y="35" class="small">🐧</text>
+</svg>
