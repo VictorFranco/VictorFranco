@@ -20,5 +20,5 @@ years, in order to be a Computer Systems Engineer.
 
 ![](https://img.shields.io/badge/vsc-006EB0?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![](https://img.shields.io/badge/node-40C42C?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
+![](https://img.shields.io/badge/node-026300?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/react-79D8F7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
