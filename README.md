@@ -7,7 +7,7 @@ years, in order to be a Computer Systems Engineer.
 
 ## Languages and Tools
 
-![](https://img.shields.io/badge/java-EC1F24?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![](https://img.shields.io/badge/java-EC1F24?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/c-004283?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/python-3476AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![](https://img.shields.io/badge/rust-E33616?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)
