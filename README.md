@@ -1,8 +1,8 @@
-<div class="container" align="center">
+<div align="center">
 
 # Hi there, I'm Victor Franco :wave:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-franco-developer/)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-101010?style=for-the-badge&logoColor=white)](https://github.com/VictorFranco/holy-grail)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-1F2730?style=for-the-badge&logoColor=white)](https://github.com/VictorFranco/holy-grail)
 
 I'm a programer. I've also been studying at ESCOM (my University) for a few
 years, in order to be a Computer Systems Engineer.
@@ -50,12 +50,12 @@ years, in order to be a Computer Systems Engineer.
 
 <br clear="all">
 
-## GitHub Stats
+</div>
+
+<h2 align="center">GitHub Stats</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=VictorFranco&show_icons=true&theme=dark)
 <img alt="Trophies" align="right" width="275" height="195" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=2&margin-w=15&title=Commit,Repositories">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFranco&hide=Shell,CSS&layout=compact&theme=dark)
 <img alt="Streak Stats" align="right" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFranco&theme=dark" />
-
-</div>
