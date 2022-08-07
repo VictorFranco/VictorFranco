@@ -1,8 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Victor Franco :wave:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-franco-developer/)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-1F2730?style=for-the-badge&logoColor=white)](https://github.com/VictorFranco/holy-grail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-08529C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-franco-developer/)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-8C221B?style=for-the-badge)](https://github.com/VictorFranco/holy-grail)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/VictorFranco)
 
 I'm a programer. I've also been studying at ESCOM (my University) for a few
 years, in order to be a Computer Systems Engineer.
@@ -17,7 +18,7 @@ years, in order to be a Computer Systems Engineer.
 
 ![Java](https://img.shields.io/badge/java-EC1F24?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
 ![C](https://img.shields.io/badge/c-004283?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
-![Python](https://img.shields.io/badge/python-3476AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/python-216094?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 
 ![Rust](https://img.shields.io/badge/rust-E33616?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
@@ -39,7 +40,7 @@ years, in order to be a Computer Systems Engineer.
 ![Vim](https://img.shields.io/badge/vim-019332?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)
 ![Bash](https://img.shields.io/badge/bash-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 
-![Git](https://img.shields.io/badge/git-F15030?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/git-DB492C?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/github-2E3947?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 
 ![Linux](https://img.shields.io/badge/linux-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
