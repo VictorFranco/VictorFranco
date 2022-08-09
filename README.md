@@ -58,5 +58,5 @@ years, in order to be a Computer Systems Engineer.
 ![Stats](https://github-readme-stats.vercel.app/api?username=VictorFranco&show_icons=true&theme=dark)
 <img alt="Trophies" align="right" width="275" height="195" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=2&margin-w=15&title=Commit,Repositories">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFranco&hide=Shell,CSS&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFranco&hide=Shell,CSS,HTML&layout=compact&theme=dark)
 <img alt="Streak Stats" align="right" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFranco&theme=dark" />
