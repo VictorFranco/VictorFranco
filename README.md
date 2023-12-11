@@ -39,12 +39,12 @@ years, in order to be a Computer Systems Engineer.
 
 ![VSC](https://img.shields.io/badge/vsc-006EB0?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
 ![Vim](https://img.shields.io/badge/vim-019332?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)
-![Bash](https://img.shields.io/badge/bash-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
+![Linux](https://img.shields.io/badge/linux-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 
 ![Git](https://img.shields.io/badge/git-DB492C?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/github-2E3947?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 
-![Linux](https://img.shields.io/badge/linux-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
+![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 
 </td>
 </tr>
