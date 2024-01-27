@@ -2,6 +2,7 @@
 
 # Hi there, I'm Victor Franco :wave:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-08529C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-franco-developer)
+[![Kaggle](https://img.shields.io/badge/Kaggle-2C87A8?style=for-the-badge)](https://www.kaggle.com/victorfranco10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-EBC554?style=for-the-badge)](https://victorfranco.sytes.net)
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-8C221B?style=for-the-badge)](https://github.com/VictorFranco/holy-grail)
 [![CodePen](https://img.shields.io/badge/CodePen-336641?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/VictorFranco)
