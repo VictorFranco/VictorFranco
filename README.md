@@ -7,51 +7,41 @@
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-8C221B?style=for-the-badge)](https://github.com/VictorFranco/holy-grail)
 [![CodePen](https://img.shields.io/badge/CodePen-336641?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/VictorFranco)
 
-I'm a programer. I've also been studying at ESCOM (my University) for a few
-years, in order to be a Computer Systems Engineer.
+I am a test automation engineer, a computer systems engineer, and a programming
+technician. Below are the languages I know, the tools I have used, and some
+examples of my personal projects.
 
 ![Animation](animation.svg "I ❤️ LINUX")
 
 ## Languages and Tools
 
-<table align="left">
-<tr>
-<td width="300" align="right">
+<img alt="Language Trophy" width="130" height="165" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=1&title=MultiLanguage">
 
+<table>
+<tr>
+<td align="center">
+
+![Python](https://img.shields.io/badge/python-216094?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Java](https://img.shields.io/badge/java-EC1F24?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
 ![C](https://img.shields.io/badge/c-004283?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
-![Python](https://img.shields.io/badge/python-216094?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-
 ![Rust](https://img.shields.io/badge/rust-E33616?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 
-![Node](https://img.shields.io/badge/node-026300?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
+![Android](https://img.shields.io/badge/android-1C8750?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Appium](https://img.shields.io/badge/appium-6A3793?style=for-the-badge&logo=appium&logoColor=white&labelColor=101010)
+![Cypress](https://img.shields.io/badge/cypress-36B37E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/react-79D8F7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 
-</td>
-</tr>
-</table>
-
-<img alt="Language Trophy" width="130" height="165" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=1&title=MultiLanguage">
-
-<table align="right">
-<tr>
-<td width="300">
-
-![VSC](https://img.shields.io/badge/vsc-006EB0?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
-![Vim](https://img.shields.io/badge/vim-019332?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)
-![Linux](https://img.shields.io/badge/linux-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
-
 ![Git](https://img.shields.io/badge/git-DB492C?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![GitHub](https://img.shields.io/badge/github-2E3947?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-
+![Linux](https://img.shields.io/badge/linux-2E3947?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
+![Node](https://img.shields.io/badge/node-026300?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
 ![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 
 </td>
 </tr>
 </table>
 
-<br clear="all">
+<br>
 
 </div>
 
