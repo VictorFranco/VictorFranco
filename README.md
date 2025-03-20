@@ -7,8 +7,8 @@
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-8C221B?style=for-the-badge)](https://github.com/VictorFranco/holy-grail)
 [![CodePen](https://img.shields.io/badge/CodePen-336641?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/VictorFranco)
 
-I am a test automation engineer, a computer systems engineer, and a programming
-technician. Below are the languages I know, the tools I have used, and some
+I am a frontend developer, a test automation engineer and a computer systems
+engineer. Below are the languages I know, the tools I have used, and some
 examples of my personal projects.
 
 ![Animation](animation.svg "I ❤️ LINUX")
@@ -48,7 +48,7 @@ examples of my personal projects.
 <h2 align="center">GitHub Stats</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=VictorFranco&show_icons=true&theme=dark)
-<img alt="Trophies" align="right" width="275" height="195" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=2&margin-w=15&title=Commit,Repositories">
+<img alt="Trophies" align="right" width="275" height="195" src="https://github-profile-trophy.vercel.app/?username=VictorFranco&theme=gruvbox&row=1&column=2&margin-w=15&title=Repositories,Experience">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFranco&hide=Shell,CSS,HTML&layout=compact&theme=dark)
 <img alt="Streak Stats" align="right" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFranco&theme=dark" />
